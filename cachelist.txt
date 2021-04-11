@@ -1,0 +1,6 @@
+google.com-a
+google.com-aaaa
+google.com-ns
+nitc.ac.in-a
+nitc.ac.in-ns
+yahoo.com-ns
